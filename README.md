@@ -1,6 +1,6 @@
-- 👋 Hi, I’m amandasilva1b
+Boas vindas ao meu perfil!
+Meu nome é Amanda Silva
 
-<!---
-amandasilva1b/amandasilva1b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+• Estou estudando no Alura
+• Estou me desenvolvendo na linguagem JavaScript
+• Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
